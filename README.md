@@ -1,4 +1,4 @@
-## Hi there, I'm <Mario>! 👋
+## Hi there, I'm Mario! 👋
 
 I am a passionate CS student, 
 
