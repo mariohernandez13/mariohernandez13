@@ -2,8 +2,6 @@
 
 I am a passionate CS student, 
 
-![<mariohernandez13>'s Stats](https://github-readme-stats.vercel.app/api?username=<mariohernandez13>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently .
