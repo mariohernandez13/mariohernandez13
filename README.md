@@ -1,4 +1,33 @@
-## Hi there 👋
+## Hi there, I'm <Mario>! 👋
+
+I am a passionate CS student, 
+
+![<mariohernandez13>'s Stats](https://github-readme-stats.vercel.app/api?username=<mariohernandez13>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently .
+- 📝 ...
+- 🌐 ...
+- ✍️ ...
+
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning ...
+  - ...
+
+ ## 🏆 Achievements
+
+- 🌟 Completed ...
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <!--
 **mariohernandez13/mariohernandez13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
